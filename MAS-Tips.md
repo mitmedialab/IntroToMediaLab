@@ -1,13 +1,16 @@
 # A collection of links to MAS & Media Lab resources 
 
 ### Foodcam
-* foodcam.media.mit.edu
+* [foodcam.media.mit.edu](foodcam.media.mit.edu)
 * Also join #foodcam on Slack!
 
 ### Edit Email Lists
-https://legacyweb.media.mit.edu/necsys/services/mail-edit/cgi-bin/aliases-browse
+[https://legacyweb.media.mit.edu/necsys/services/mail-edit/cgi-bin/aliases-browse](https://legacyweb.media.mit.edu/necsys/services/mail-edit/cgi-bin/aliases-browse)
 
 These lists allow you to create any `my-cool-email-address@media.mit.edu` and have it send to one or more people.
+
+This is different from the webmoira or other mailing list systems at MIT that create a `alias@**mit.edu**` mailing list. 
+[https://ist.mit.edu/email-lists](https://ist.mit.edu/email-lists)
 
 ### NeCSys - Network and Computing Systems Wiki
 New: https://nuwiki.media.mit.edu/bin/view/Necsysdocs/WebHome
