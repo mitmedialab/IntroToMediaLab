@@ -49,6 +49,14 @@ Undergraduate Research Opportunities Program (UROP) is a program where you hire 
 * [Atlas RFP](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_my_reimburse) is where you can submit reimbursements. You will NOT be reimbursed for tax. You must set up direct deposit (on that page) first. Ask your admin!
 * [MIT Receiving Addresses](https://web.mit.edu/facilities/services/mail/shipping-receiving.html) Be sure to use the right address when ordering things to the lab! You should put the room and your name in the attention line of the address (ex. E14-548 Perry Naseck). Ask your admin!
 
+An example for the Media Lab
+```
+400 Main St
+Attn: E14-youroffice/lab Your Name
+Cambridge, MA 02142
+Shipping phone: 617-253-1641
+```
+
 ### Getting Around
 * [Atlas Commuting Benefits](https://atlas.mit.edu/atlas/Main.action?tab=aboutMe&sapSystemId=PS1&sub=commuting)
   * T passes: $96 per semester!
