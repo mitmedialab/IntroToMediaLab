@@ -60,4 +60,5 @@ Undergraduate Research Opportunities Program (UROP) is a program where you hire 
 * [Parking](https://web.mit.edu/facilities/transportation/parking/index.html)
 * [Walking](https://web.mit.edu/facilities/transportation/walking.html) I had to include it because there was a page for it
 
-
+### Food
+- [Food Trucks Calendar](https://www.openspace.mit.edu/calendar) can be found here for the Kendall Open Space
