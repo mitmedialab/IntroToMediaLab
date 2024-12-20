@@ -73,3 +73,10 @@ Shipping phone: 617-253-1641
 
 ### Food
 - [Food Trucks Calendar](https://www.openspace.mit.edu/calendar) can be found here for the Kendall Open Space
+
+
+### Health
+- MIT Health is just around the corner to the Media Lab
+- Urgent care is for same-day care for urgent but non-life-threatening emergencies. (like cold or fever, etc).
+- Primary Care is more for like yearly checkups, and you must choose your primary-care physician before you have an appointment
+- - [health.mit.edu/choose](health.mit.edu/choose) is where you select who you want to meet with
